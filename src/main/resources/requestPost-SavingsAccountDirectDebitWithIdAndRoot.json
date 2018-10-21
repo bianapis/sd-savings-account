@@ -1,0 +1,14 @@
+{
+  "productInstanceReference" : "PIR7374646",
+  "amount" : "200000",
+  "directDebitPurpose" : "for compliance reporting",
+  "directDebitFacilityReference" : "DDFR7635464",
+  "payeeReference" : "PR73646",
+  "payeeProductInstanceReference" : "PPIR736466",
+  "customerReference" : "CR6789",
+  "directDebitServiceConfiguration" : "limits/schedules",
+  "payeeBankReference" : "PBR736464",
+  "directDebitMandateReference" : "DDMR7366464",
+  "currency" : "USD",
+  "bankBranchLocationReference" : "BLR7364646"
+}

@@ -1,0 +1,12 @@
+{
+  "productInstanceReference" : "PIR7274664",
+  "standingOrderPurpose" : "for compliance reporting",
+  "amount" : "200000",
+  "payeeReference" : "PR73646",
+  "payeeProductInstanceReference" : "PPIR736466",
+  "customerReference" : "CR6789",
+  "payeeBankReference" : "PBR736464",
+  "paymentSchedule" : {},
+  "standingOrderFacilityReference" : "SFR7236464",
+  "currency" : "USD"
+}

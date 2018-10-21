@@ -1,0 +1,8 @@
+{
+  "applicableInterestRate" : "10%",
+  "productInstanceReference" : "productInstanceReference",
+  "interestRateTransactionReference" : "IRTR736464",
+  "rateApplicationSchedule" : "QURT",
+  "rateRateConfiguration" : {},
+  "accuredInterestAmount" : "20"
+}
